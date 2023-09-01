@@ -1,11 +1,18 @@
 ---
-title: "About This Website"
+title: "About Me"
 ---
 
 More about this website.
 
 
 ![This is me](C:/Users/DELL/OneDrive/UNH/Fall2023/BIOL 806-Data Science for Life sciences/Biol806/linkedinpic.png)
+
+
+#Santi Rivera Reyes M.Sc
+
+
+
+I'm an industrial microbiologist from Bogota, Colombia. I graduated from Xaverian University in 2109 and I joined the microbiology master's program at UNH in 2021. I worked on the Forest health lab  under the supervison of Dr. Jeff Garnas. I defended my thesis titled "Evaluating growth patterns of beech bark disease fungal agents *Neonectria faginata* and *Neonectria ditissima* under different in vitro conditions" on July 2023 and I'm happy to continnue my PhD at UNH starting on Fall 2023.
 
 
 
