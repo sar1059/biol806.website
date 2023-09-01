@@ -1,0 +1,13 @@
+---
+title: "About This Website"
+---
+
+More about this website.
+
+
+![This is me](C:/Users/DELL/OneDrive/UNH/Fall2023/BIOL 806-Data Science for Life sciences/Biol806/linkedinpic.png)
+
+
+
+
+
