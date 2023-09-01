@@ -2,7 +2,7 @@
 title: "About Me"
 ---
 
-More about this website.
+More about me, myself and I <3
 
 
 ![This is me](C:/Users/DELL/OneDrive/UNH/Fall2023/BIOL 806-Data Science for Life sciences/Biol806/linkedinpic.png)
